@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="png">
+    <file>机器人.png</file>
+  </qresource>
+</RCC>
